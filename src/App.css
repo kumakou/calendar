@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+td.fc-day-sat{
+  background-color: #eaf4ff;
+}
+
+
+td.fc-day-sun {
+  background-color: #ffeaea;
+}
+
+.fc .fc-bg-event {
+  opacity: 1;
+}
